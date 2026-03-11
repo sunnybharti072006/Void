@@ -40,6 +40,22 @@
 		</dependency>
 
 		<dependency>
+			<groupId>org.bytedeco</groupId>
+			<artifactId>javacv-platform</artifactId>
+			<version>1.5.7</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.pcap4j</groupId>
+			<artifactId>pcap4j-core</artifactId>
+			<version>1.8.2</version>
+		</dependency>
+		<dependency>
+			<groupId>org.pcap4j</groupId>
+			<artifactId>pcap4j-packetfactory-static</artifactId>
+			<version>1.8.2</version>
+		</dependency>
+		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 			<optional>true</optional>
